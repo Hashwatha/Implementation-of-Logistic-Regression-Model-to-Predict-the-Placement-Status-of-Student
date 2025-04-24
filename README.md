@@ -95,8 +95,11 @@ confusion
 from sklearn.metrics import classification_report
 classification_report=classification_report(y_test,y_pred)
 print(classification_report)
+print("Name:Hashwatha M")
+print("Reg no:212223240051")
 ```
-![image](https://github.com/user-attachments/assets/298a24f9-f0cb-49a9-bbe4-edc017f44f8e)
+![image](https://github.com/user-attachments/assets/28340ac3-a30a-4c76-a4dc-34955afa72a4)
+
 ```
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
